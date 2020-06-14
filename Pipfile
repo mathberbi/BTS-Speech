@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+yolk3k = "*"
+jupyterlab = "*"
+stanza = "*"
+konlpy = "*"
+matplotlib = "*"
+nltk = "*"
+pytagcloud = "*"
+pandas = "*"
+wordcloud = "*"
+krwordrank = "*"
+scipy = "*"
+sklearn = "*"
+gensim = "*"
+numpy = "*"
+pyldavis = "*"
+pillow = "*"
+
+[requires]
+python_version = "3.8"
